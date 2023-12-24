@@ -1,6 +1,6 @@
-# Restaurant Management System
+# Swigato - An online food ordering platform.
 
-Welcome to the Restaurant Management System, a fully functional web application built using MongoDB, Express.js, React.js, and Node.js. This comprehensive system encompasses seamless frontend-backend integration, Firebase authentication, JWT token access, an admin panel for management, payment processing, image hosting, and an online food ordering system with order management features.
+Welcome to Swigato, a fully functional web application built using MongoDB, Express.js, React.js, and Node.js. This comprehensive system encompasses seamless frontend-backend integration, Firebase authentication, JWT token access, an admin panel for management, payment processing, image hosting, and an online food ordering system with order management features.
 
 ## 🔧 Main Functionalities
 
